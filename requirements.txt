@@ -1,0 +1,11 @@
+pyqt5
+opencv-python
+numpy
+torch
+ultralytics
+cv_bridge
+rclpy
+sensor_msgs
+std_msgs
+yolov8_msgs
+moveit

@@ -7,7 +7,7 @@ This project simulates a pick-and-place robot using ROS2. It demonstrates basic 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/pick-n-place-robot.git
+git clone https://github.com/syahvan/pick-n-place-robot.git
 cd pick-n-place-robot
 
 # Install Python dependencies
